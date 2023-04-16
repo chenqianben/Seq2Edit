@@ -4,6 +4,6 @@
 
 ## One-Sentence Summary
 
-This project proposes Seq2Edits, a novel GEC model that considers the error correction task as a sequence labeling problem. an illustration is depicted below:
+This project proposes Seq2Edits, a novel GEC model that considers the error correction task as a sequence labeling problem. An illustration is depicted below:
 
 ![model](assets/model.png)
