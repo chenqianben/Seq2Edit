@@ -1,4 +1,4 @@
-# Seq2Edits: a sequence-to-edit model for Grammer Error Correction
+# Seq2Edits: a Sequence-to-edit Model for Grammer Error Correction
 
 ![GitHub](https://img.shields.io/badge/license-qianben-green.svg)
 
